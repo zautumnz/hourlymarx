@@ -9,7 +9,7 @@
     "start": "node server.js"
   },
   "repository": {
-    "url": "https://github.com/zacanger/hourlymarx"
+    "url": "https://github.com/zautumnz/hourlymarx"
   },
   "dependencies": {
     "twit": "2.2.11"
